@@ -1,0 +1,30 @@
+{
+  "name": "@ekingunoncu/kuveytturk_sanal_pos",
+  "version": "1.0.0",
+  "description": "Kuveytturk Virtual POS wrapper.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekingunoncu/kuveytturk_sanal_pos.git"
+  },
+  "keywords": [
+    "Kuveytturk",
+    "sanal pos",
+    "pos",
+    "payment",
+    "ödeme"
+  ],
+  "author": "Ekin Gün Öncü -> @ekingunoncu , Doğukan Berat Elbasan -> @dogukanberat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekingunoncu/kuveytturk_sanal_pos/issues"
+  },
+  "homepage": "https://github.com/ekingunoncu/kuveytturk_sanal_pos#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "xml2js": "^0.4.23"
+  }
+}
